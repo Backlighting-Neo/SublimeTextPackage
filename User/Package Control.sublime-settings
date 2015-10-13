@@ -1,0 +1,36 @@
+{
+	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"Babel",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"Emmet",
+		"Grunt",
+		"Grunt Snippets",
+		"IMESupport",
+		"jQuery",
+		"JsFormat",
+		"LESS",
+		"Markdown Preview",
+		"Material Theme",
+		"Package Control",
+		"ReactJS",
+		"ReactJS Snippets",
+		"SideBarEnhancements",
+		"sublime-react",
+		"SublimeCodeIntel",
+		"SublimeREPL"
+	],
+	"repositories":
+	[
+		"https://github.com/i-akhmadullin/Sublime-CSS3",
+		"https://github.com/reactjs/sublime-react"
+	]
+}

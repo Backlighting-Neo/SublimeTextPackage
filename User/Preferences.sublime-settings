@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_face": "Courier New",
+	"font_size": 20,
+	"ignored_packages":
+	[
+		"Grunt",
+		"Grunt Snippets",
+		"Vintage"
+	],
+	"tab_size": 2,
+	"theme": "Default.sublime-theme"
+}
