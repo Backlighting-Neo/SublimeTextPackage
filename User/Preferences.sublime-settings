@@ -8,6 +8,10 @@
 		"Grunt Snippets",
 		"Vintage"
 	],
+	"binary_file_patterns": [
+	  "node_modules/**",
+	  "bower_components/**"
+	],
 	"tab_size": 2,
 	"theme": "Default.sublime-theme"
 }
