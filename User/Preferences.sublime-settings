@@ -1,16 +1,17 @@
 {
+	"binary_file_patterns":
+	[
+		"node_modules/**",
+		"bower_components/**"
+	],
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"font_face": "Courier New",
-	"font_size": 20,
+	"font_size": 16,
 	"ignored_packages":
 	[
 		"Grunt",
 		"Grunt Snippets",
 		"Vintage"
-	],
-	"binary_file_patterns": [
-	  "node_modules/**",
-	  "bower_components/**"
 	],
 	"tab_size": 2,
 	"theme": "Default.sublime-theme"
