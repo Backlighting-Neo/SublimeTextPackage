@@ -9,9 +9,11 @@
 		"Alignment",
 		"AutoFileName",
 		"Babel",
+		"Chain of Command",
 		"ColorPicker",
 		"ConvertToUTF8",
 		"Emmet",
+		"ExpressComplete",
 		"Grunt",
 		"Grunt Snippets",
 		"IMESupport",
@@ -23,10 +25,13 @@
 		"Package Control",
 		"ReactJS",
 		"ReactJS Snippets",
+		"RegReplace",
+		"Seti_UI",
 		"SideBarEnhancements",
 		"sublime-react",
 		"SublimeCodeIntel",
-		"SublimeREPL"
+		"SublimeREPL",
+		"View In Browser"
 	],
 	"repositories":
 	[

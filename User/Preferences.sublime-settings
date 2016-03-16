@@ -1,17 +1,25 @@
 {
 	"binary_file_patterns":
 	[
-		"node_modules/**",
-		"bower_components/**"
+		"bower_components/**",
+		"node_modules/**"
 	],
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"font_face": "Courier New",
-	"font_size": 16,
+	"font_face": "Yahei Consolas Hybrid",
+	"font_size": 14,
 	"ignored_packages":
 	[
 		"Grunt",
 		"Grunt Snippets",
 		"Vintage"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"E:\\blog*",
+		"*.log.bak",
+		"E:\\work\\emergency\\sP*",
+		"*\\node_modules\\*"
 	],
 	"tab_size": 2,
 	"theme": "Default.sublime-theme"

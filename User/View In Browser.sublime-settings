@@ -1,0 +1,15 @@
+{
+   "folders":
+   [
+      {
+         "path": "/e/work/source"
+      }
+   ],
+   "settings": {
+      "sublime-view-in-browser": {
+         "baseUrl": "http://192.168.2.100",
+         "basePath": "E:\\work\\source"
+      }
+   },
+   "browser": "chrome"
+}
